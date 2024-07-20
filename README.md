@@ -7,9 +7,9 @@ In addition, I am working on developing home automation devices tailored for the
 Below is a categorical breakdown of both, my repositories and my projects so far. The lists are repetitive since some projects span multiple categories
 
 * [Blockchain Technology](#blockhain-technology)
-* [Hardware Security and Cryptography]()
-* [Hobby Projects in IoT, ML, AR and Distributed Systems]()
-* [Hackathon Submissions]()
+* [Hardware Security and Cryptography](#hardware-security-and-cryptography)
+* [Hobby Projects in IoT, ML, AR and Distributed Systems](#hobby-projects-in-iot-ml-ar-and-distributed-systems)
+* [Hackathon Submissions](hackathon-submissions)
 
 #### Blockhain Technology
 1. Incentivized Node Network(IN3) [Client](https://github.com/blockchainsllc/in3) - [Server](https://github.com/blockchainsllc/in3-server)
@@ -18,11 +18,11 @@ Below is a categorical breakdown of both, my repositories and my projects so far
 2. Vade Integration in Equs
 	* The task was simple but nuanced. I had to use the provided FFI by the evan team to integrate Vade into Equs SDK(formerly IN3). [Here](https://github.com/blockchainsllc/vade-bin) you can see cross compilations of the rust binary.
 	* I further expanded the intergration as bindings into .NET, Swift, WASM and Java
-	* [Metamask Extension with IN3 support](https://github.com/MetaMask/metamask-extension/issues/7868)
-3. One of my very first projects in Blockchain(please don't judge): A naive ENS auction scrapper [ShowMeTheHash](https://github.com/chirag-parmar/ShowMeTheHash)
-4. Ethereum-ready nRF52 embedded systems - [Secure Bootloader](https://github.com/chirag-parmar/nrf52-secure-boot), [Signer Template](https://github.com/chirag-parmar/nrf-in3-template)
-5. Research: Biometric key recovery using Fuzzy extractors and Fuzzy commitment schemes (Unfortunately, the research was proprietary)
-6. Research: Practical Social Key Recovery using secret sharing techniques (Even this research was proprietary)
+3. [Metamask Extension with IN3 support](https://github.com/MetaMask/metamask-extension/issues/7868)
+4. One of my very first projects in Blockchain(please don't judge): A naive ENS auction scrapper [ShowMeTheHash](https://github.com/chirag-parmar/ShowMeTheHash)
+5. Ethereum-ready nRF52 embedded systems - [Secure Bootloader](https://github.com/chirag-parmar/nrf52-secure-boot), [Signer Template](https://github.com/chirag-parmar/nrf-in3-template)
+6. Research: Biometric key recovery using Fuzzy extractors and Fuzzy commitment schemes (Unfortunately, the research was proprietary)
+7. Research: Practical Social Key Recovery using secret sharing techniques (Even this research was proprietary)
 
 #### Hardware Security and Cryptography
 1. Masters Thesis: Implementation of FrodoKEM on Opentitan platform [TODO: ask for permission to publish the thesis report on github]
