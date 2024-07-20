@@ -1,10 +1,15 @@
-## Welcome to Chirag Parmar's GitHub!
+# Welcome to Chirag Parmar's GitHub!
 
 Hello! I'm Chirag Parmar, a passionate engineer and developer with a diverse background in communications and electronics engineering. I completed my Masters of Science in Communications Engineering from the Technical University of Munich. During my undergraduate studies, I had the opportunity to spend a semester at the University of California, Berkeley, where I learned product design and entrepreneurship. Since 2017, I have been actively working on self-sovereign identity, key recovery (social and non-custodial), and other blockchain-related technologies. Currently, I am an active participant in the Ethereum Protocol Fellowship, where I am working on the Rated List project. 
 
 In addition, I am working on developing home automation devices tailored for the Indian market. This project is a valuable opportunity to apply and integrate all the skills I have gathered so far, starting from hardware security, cryptography, communications engineering to product design, and entrepreneurship. It has been both challenging and rewarding.
 
 Below is a categorical breakdown of both, my repositories and my projects so far. The lists are repetitive since some projects span multiple categories
+
+* [Blockchain Technology](#blockhain-technology)
+* [Hardware Security and Cryptography]()
+* [Hobby Projects in IoT, ML, AR and Distributed Systems]()
+* [Hackathon Submissions]()
 
 #### Blockhain Technology
 1. Incentivized Node Network(IN3) [Client](https://github.com/blockchainsllc/in3) - [Server](https://github.com/blockchainsllc/in3-server)
