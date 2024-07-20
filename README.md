@@ -1,6 +1,6 @@
 # Welcome to Chirag Parmar's GitHub! 👋
 
-**Current Status:** Ethereum Protocol Fellowship, where I am working on the Rated List project. [View Progress](https://github.com/eth-protocol-fellows/cohort-five/blob/main/development-updates.md)
+**Current Status:** Ethereum Protocol Fellowship, where I am working on the Rated List project. [View Progress](https://github.com/eth-protocol-fellows/cohort-five/blob/main/development-updates.md) [My Notes](https://github.com/eth-protocol-fellows/cohort-five/blob/main/notes/ChiragMahaveerParmar.md)
 
 Hello! I'm Chirag Parmar. I completed my Masters of Science in Communications Engineering from the Technical University of Munich 🎓. During my undergraduate studies, I had the opportunity to spend a semester at the University of California, Berkeley 🌉, where I learned product design and entrepreneurship. Since 2017, I have been actively working on self-sovereign identity, key recovery (social and non-custodial), and other blockchain-related technologies 🔐.
 
