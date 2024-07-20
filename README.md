@@ -8,12 +8,12 @@ Below is a categorical breakdown of both, my repositories and my projects so far
 
 #### Blockhain Technology
 1. Incentivized Node Network(IN3) [Client](https://github.com/blockchainsllc/in3) - [Server](https://github.com/blockchainsllc/in3-server)
-  * I worked on the merkle patricia tree implementation of the server and developed various other parts of the server. I also discovered a private key leakage that I'm very proud of :)
-  * On the client side I worked on building an SSI plugin for Evan.network's [Vade](https://github.com/evannetwork/vade) framework although this was later part of the Equs SDK
+	* I worked on the merkle patricia tree implementation of the server and developed various other parts of the server. I also discovered a private key leakage that I'm very proud of :)
+	* On the client side I worked on building an SSI plugin for Evan.network's [Vade](https://github.com/evannetwork/vade) framework although this was later part of the Equs SDK
 2. Vade Integration in Equs
-  * The task was simple but nuanced. I had to use the provided FFI by the evan team to integrate Vade into Equs SDK(formerly IN3). [Here](https://github.com/blockchainsllc/vade-bin) you can see cross compilations of the rust binary.
-  * I further expanded the intergration as bindings into .NET, Swift, WASM and Java
-  * [Metamask Extension with IN3 support](https://github.com/MetaMask/metamask-extension/issues/7868)
+	* The task was simple but nuanced. I had to use the provided FFI by the evan team to integrate Vade into Equs SDK(formerly IN3). [Here](https://github.com/blockchainsllc/vade-bin) you can see cross compilations of the rust binary.
+	* I further expanded the intergration as bindings into .NET, Swift, WASM and Java
+	* [Metamask Extension with IN3 support](https://github.com/MetaMask/metamask-extension/issues/7868)
 3. One of my very first projects in Blockchain(please don't judge): A naive ENS auction scrapper [ShowMeTheHash](https://github.com/chirag-parmar/ShowMeTheHash)
 4. Ethereum-ready nRF52 embedded systems - [Secure Bootloader](https://github.com/chirag-parmar/nrf52-secure-boot), [Signer Template](https://github.com/chirag-parmar/nrf-in3-template)
 5. Research: Biometric key recovery using Fuzzy extractors and Fuzzy commitment schemes (Unfortunately, the research was proprietary)
@@ -23,9 +23,9 @@ Below is a categorical breakdown of both, my repositories and my projects so far
 1. Masters Thesis: Implementation of FrodoKEM on Opentitan platform [TODO: ask for permission to publish the thesis report on github]
 2. [Survey of using DRAM PUFs for Authentication](https://github.com/chirag-parmar/drams-pufs-research) 
 3. [Analysis of power leakages in Cryptogrpahic Implementations of AES](https://github.com/chirag-parmar/dpa-attacks-analysis)
-  * This repository only simulates and analyzes there were other courses like Smart Card Security that delved into real-world DPA attacks.
+	* This repository only simulates and analyzes there were other courses like Smart Card Security that delved into real-world DPA attacks.
 4. [Smashing the stack and using gadgets for hijacking execution](https://github.com/chirag-parmar/embedded-systems-security)
-  * Apologies, this was coursework hence it is unorganized. Assignment 2 is the relevant assignment for buffer overflow
+	* Apologies, this was coursework hence it is unorganized. Assignment 2 is the relevant assignment for buffer overflow
 5. [nRF52 Secure Bootloader](https://github.com/chirag-parmar/nrf52-secure-boot)
 6. [nRF52 Embedded Ethereum Signer](https://github.com/chirag-parmar/nrf-in3-template)
 7. [My solution to the Cryptopals Challenges](https://github.com/chirag-parmar/Cryptopals)
@@ -33,7 +33,7 @@ Below is a categorical breakdown of both, my repositories and my projects so far
 
 #### Hobby Projects in IoT, ML, AR and Distributed Systems
 1. [2GUD](https://github.com/chirag-parmar/2GUD)
-  * A fun project building a distributed file storage with basic fault tolerance.
+	* A fun project building a distributed file storage with basic fault tolerance.
 2. [Rpi Pico Game Engine for Lode Runner](https://github.com/chirag-parmar/pico-lode-runner)
 3. [FaceRecognition on Rpi using FaceAPI](https://github.com/chirag-parmar/Face-Recognition)
 4. [An AR Encyclopedia built over the book AskMeAnything](https://github.com/chirag-parmar/AskMeAnything)
