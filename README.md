@@ -36,7 +36,7 @@ Below is a categorical breakdown of both my repositories and my projects so far.
 5. **[nRF52 Secure Bootloader](https://github.com/chirag-parmar/nrf52-secure-boot)**
 6. **[nRF52 Embedded Ethereum Signer](https://github.com/chirag-parmar/nrf-in3-template)**
 7. **[My solution to the Cryptopals Challenges](https://github.com/chirag-parmar/Cryptopals)**
-8. **[Ingonyama's Challenge]()** (TODO: Upload Repository)
+8. **[Ingonyama's DLOG Challenge](https://github.com/chirag-parmar/breaking-weak-crypto)**
 
 #### Hobby Projects in IoT, ML, AR, and Distributed Systems 🌐
 1. **[2GUD](https://github.com/chirag-parmar/2GUD)**
