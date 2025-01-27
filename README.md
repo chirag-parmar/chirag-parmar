@@ -30,9 +30,7 @@ Below is a categorical breakdown of both my repositories and my projects so far.
 1. **Masters Thesis:** Implementation of FrodoKEM on Opentitan platform [TODO: ask for permission to publish the thesis report on GitHub]
 2. **[Survey of using DRAM PUFs for Authentication](https://github.com/chirag-parmar/drams-pufs-research)**
 3. **[Analysis of power leakages in Cryptographic Implementations of AES](https://github.com/chirag-parmar/dpa-attacks-analysis)**
-   * This repository only simulates and analyzes; there were other courses like Smart Card Security that delved into real-world DPA attacks.
 4. **[Smashing the stack and using gadgets for hijacking execution](https://github.com/chirag-parmar/embedded-systems-security)**
-   * Apologies, this was coursework hence it is unorganized. Assignment 2 is the relevant assignment for buffer overflow.
 5. **[nRF52 Secure Bootloader](https://github.com/chirag-parmar/nrf52-secure-boot)**
 6. **[nRF52 Embedded Ethereum Signer](https://github.com/chirag-parmar/nrf-in3-template)**
 7. **[My solution to the Cryptopals Challenges](https://github.com/chirag-parmar/Cryptopals)**
