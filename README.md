@@ -1,6 +1,6 @@
 # Welcome to Chirag Parmar's GitHub! 👋
 
-**Current Status:** Nim Developer @ [StatusIM](https://github.com/status-im) and doing some p2p research on the side ([pubsub-shadow](https://github.com/ppopth/pubsub-shadow))
+**Current Status:** Nim Developer @ [StatusIM](https://github.com/status-im) and doing some p2p research on the side, [pubsub-shadow](https://github.com/ppopth/pubsub-shadow)
 
 Hello! I'm Chirag Parmar. I completed my Masters of Science in Communications Engineering from the Technical University of Munich. At TUM, I defended my thesis titled "Implementation of FrodoKEM on Opentitan platform". During my undergraduate studies, I spent a semester at the University of California, Berkeley, learning product design and entrepreneurship. Since 2017, I have been actively working on self-sovereign identity, key recovery, and other blockchain-related technologies.
 
